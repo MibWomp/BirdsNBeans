@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{C3BD4528-5AD4-4494-8B3C-632962E2D9A8}|BirdsNBeans\\BirdsNBeans.vcxproj|solutionrelative:BirdsNBeans\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C3BD4528-5AD4-4494-8B3C-632962E2D9A8}|BirdsNBeans\\BirdsNBeans.vcxproj|C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3BD4528-5AD4-4494-8B3C-632962E2D9A8}|BirdsNBeans\\BirdsNBeans.vcxproj|solutionrelative:BirdsNBeans\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BD4528-5AD4-4494-8B3C-632962E2D9A8}|BirdsNBeans\\BirdsNBeans.vcxproj|C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3BD4528-5AD4-4494-8B3C-632962E2D9A8}|BirdsNBeans\\BirdsNBeans.vcxproj|solutionrelative:BirdsNBeans\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C3BD4528-5AD4-4494-8B3C-632962E2D9A8}|BirdsNBeans\\BirdsNBeans.vcxproj|C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\Sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C3BD4528-5AD4-4494-8B3C-632962E2D9A8}|BirdsNBeans\\BirdsNBeans.vcxproj|solutionrelative:BirdsNBeans\\Sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C3BD4528-5AD4-4494-8B3C-632962E2D9A8}|BirdsNBeans\\BirdsNBeans.vcxproj|C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\Tongue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C3BD4528-5AD4-4494-8B3C-632962E2D9A8}|BirdsNBeans\\BirdsNBeans.vcxproj|solutionrelative:BirdsNBeans\\Tongue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3BD4528-5AD4-4494-8B3C-632962E2D9A8}|BirdsNBeans\\BirdsNBeans.vcxproj|C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C3BD4528-5AD4-4494-8B3C-632962E2D9A8}|BirdsNBeans\\BirdsNBeans.vcxproj|solutionrelative:BirdsNBeans\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3BD4528-5AD4-4494-8B3C-632962E2D9A8}|BirdsNBeans\\BirdsNBeans.vcxproj|C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\TextureManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -50,11 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\Game.h",
+              "RelativeDocumentMoniker": "BirdsNBeans\\Game.h",
+              "ToolTip": "C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\Game.h",
+              "RelativeToolTip": "BirdsNBeans\\Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T16:46:22.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Seed.h",
               "DocumentMoniker": "C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\Seed.h",
               "RelativeDocumentMoniker": "BirdsNBeans\\Seed.h",
@@ -62,12 +79,11 @@
               "RelativeToolTip": "BirdsNBeans\\Seed.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-17T22:29:25.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T22:29:25.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\Player.h",
               "RelativeDocumentMoniker": "BirdsNBeans\\Player.h",
@@ -75,12 +91,11 @@
               "RelativeToolTip": "BirdsNBeans\\Player.h",
               "ViewState": "AQIAABwAAAAAAAAAAAAAACQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-03T19:05:47.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T19:05:47.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Tongue.h",
               "DocumentMoniker": "C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\Tongue.h",
               "RelativeDocumentMoniker": "BirdsNBeans\\Tongue.h",
@@ -88,12 +103,11 @@
               "RelativeToolTip": "BirdsNBeans\\Tongue.h",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-06T22:05:49.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T22:05:49.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TextureManager.cpp",
               "DocumentMoniker": "C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\TextureManager.cpp",
               "RelativeDocumentMoniker": "BirdsNBeans\\TextureManager.cpp",
@@ -101,25 +115,24 @@
               "RelativeToolTip": "BirdsNBeans\\TextureManager.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-12T21:54:40.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T21:54:40.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\main.cpp",
               "RelativeDocumentMoniker": "BirdsNBeans\\main.cpp",
               "ToolTip": "C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\main.cpp",
               "RelativeToolTip": "BirdsNBeans\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-11T21:40:48.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Sprite.h",
               "DocumentMoniker": "C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\Sprite.h",
               "RelativeDocumentMoniker": "BirdsNBeans\\Sprite.h",
@@ -127,12 +140,11 @@
               "RelativeToolTip": "BirdsNBeans\\Sprite.h",
               "ViewState": "AQIAAFAAAAAAAAAAAAAAAE4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-06T17:38:04.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T17:38:04.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TextureManager.h",
               "DocumentMoniker": "C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\TextureManager.h",
               "RelativeDocumentMoniker": "BirdsNBeans\\TextureManager.h",
@@ -140,8 +152,7 @@
               "RelativeToolTip": "BirdsNBeans\\TextureManager.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-21T00:28:24.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T00:28:24.065Z"
             },
             {
               "$type": "Document",
@@ -151,14 +162,14 @@
               "RelativeDocumentMoniker": "BirdsNBeans\\Game.cpp",
               "ToolTip": "C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\Game.cpp",
               "RelativeToolTip": "BirdsNBeans\\Game.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-05T14:14:43.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Transform.h",
               "DocumentMoniker": "C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\Transform.h",
               "RelativeDocumentMoniker": "BirdsNBeans\\Transform.h",
@@ -166,12 +177,11 @@
               "RelativeToolTip": "BirdsNBeans\\Transform.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-13T15:26:21.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T15:26:21.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Vector2D.h",
               "DocumentMoniker": "C:\\Coding Projects\\BirdsNBeans\\BirdsNBeans\\Vector2D.h",
               "RelativeDocumentMoniker": "BirdsNBeans\\Vector2D.h",
@@ -179,8 +189,7 @@
               "RelativeToolTip": "BirdsNBeans\\Vector2D.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-07T13:13:47.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T13:13:47.865Z"
             }
           ]
         }
